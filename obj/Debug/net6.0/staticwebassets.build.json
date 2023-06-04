@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JXeGVXeYGszFbFCbav70YVReVHudPR7MRXG5MV7rQ78=",
+  "Source": "WebApiAzureDeployGopal",
+  "BasePath": "_content/WebApiAzureDeployGopal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
